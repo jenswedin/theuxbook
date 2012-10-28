@@ -7,8 +7,18 @@ This is where a will collect my work. What I do. What I learn. What mistakes I d
 
 The book will contain some of the following 
 
+
+##Background
+
+
+##What is user experience
+
+##How to sell user experience
+
+
 ##Work process
 
+##
 
 ##Toolkit
 

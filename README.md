@@ -22,5 +22,3 @@ The book will contain some of the following
 
 ##Toolkit
 
-
-##Hello World
